@@ -1,0 +1,43 @@
+h1,h2,h3 {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div {
+    text-align: center;
+}
+#contentdudas{
+    float: left;
+    width: 80%;
+    background: orange;
+    min-height: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+aside {
+    float: left;
+    width: calc(20% - 20px);
+    background: seagreen;
+    min-height: 500px;
+
+}
+#personal {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+#html {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+ 
+#parrafodudas {
+    text-align: center;
+    font-size: 20px;
+}
+
